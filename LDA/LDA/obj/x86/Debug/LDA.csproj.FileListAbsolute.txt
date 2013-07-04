@@ -15,3 +15,5 @@ C:\Users\miya\Dropbox\学校・ゼミ\LDA\LDA\bin\Debug\LDA.pdb
 C:\Users\miya\Dropbox\学校・ゼミ\LDA\LDA\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Kitahara\Dropbox\学校・ゼミ\LDA\LDA\obj\x86\Debug\LDA.exe
 C:\Users\Kitahara\Dropbox\学校・ゼミ\LDA\LDA\obj\x86\Debug\LDA.pdb
+C:\wkblab\wkblab\LDA\LDA\obj\x86\Debug\LDA.exe
+C:\wkblab\wkblab\LDA\LDA\obj\x86\Debug\LDA.pdb
