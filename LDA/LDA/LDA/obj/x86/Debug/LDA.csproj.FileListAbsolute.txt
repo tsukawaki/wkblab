@@ -1,0 +1,5 @@
+C:\Users\miya\Dropbox\学校・ゼミ\LDA\LDA\LDA\bin\Debug\LDA.exe
+C:\Users\miya\Dropbox\学校・ゼミ\LDA\LDA\LDA\bin\Debug\LDA.pdb
+C:\Users\miya\Dropbox\学校・ゼミ\LDA\LDA\LDA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\miya\Dropbox\学校・ゼミ\LDA\LDA\LDA\obj\x86\Debug\LDA.exe
+C:\Users\miya\Dropbox\学校・ゼミ\LDA\LDA\LDA\obj\x86\Debug\LDA.pdb
